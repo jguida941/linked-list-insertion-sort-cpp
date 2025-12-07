@@ -2,6 +2,9 @@
 
 A tiny, well-commented C++ program that implements stable insertion sort on a singly linked list. It’s written for learning: clear names, ASCII diagrams, and a step-by-step walkthrough.
 
+https://github.com/user-attachments/assets/b9866cb8-3f4c-4721-86c3-14c54cd90056
+
+
 ## What you’ll learn
 - How a singly linked list is wired: head, next, nodes
 - Insertion sort as “growing a sorted prefix” (like sorting playing cards)
