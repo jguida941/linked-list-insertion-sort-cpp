@@ -1,0 +1,36 @@
+# Build directories
+build/
+cmake-build-*/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+*.ninja
+
+# Binaries
+linked_list_insertion_sort
+linked_list_insertion_sort.exe
+ll_isort
+ll_isort.exe
+
+# Objects and temps
+*.o
+*.obj
+*.pch
+*.pdb
+*.ilk
+*.dll
+*.dylib
+*.so
+*.a
+*.lib
+*.exp
+
+# IDE and tools
+.idea/
+.vscode/
+*.user
+*.log
+.DS_Store
